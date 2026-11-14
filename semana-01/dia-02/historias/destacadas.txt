@@ -1,0 +1,28 @@
+DESTACADAS — semana 01, día 02
+
+ANTES/DESPUÉS (portada existente: dia-01/historias/destacada-antes-despues.png)
+  historia-02.png  Fondo + reel 1 (Chicho Cars, Aveo) pegado en el hueco 9:16
+  historia-03.png  Detrás de escena: fotograma del crudo
+
+BOTS (portada NUEVA: destacada-bots.png)
+  historia-06.png  Fondo + reel 3 (demo de bot) pegado en el hueco 9:16
+  historia-07.png  Qué es un bot de respuesta
+  historia-08.png  Responde en segundos · 24/7 · pedidos y turnos
+
+SIN DESTACADA
+  historia-01.png  Portada: Domingo de edición
+  historia-04.png  Tip: subtítulos
+  historia-05.png  Fondo + carrusel pegado en el recuadro 4:5
+  historia-09.png  Encuesta
+  historia-10.png  Cierre / CTA TRIPI
+
+STICKERS / PEGADOS
+  historia-02  Sin sticker: compartir el reel 1 y ajustarlo al recuadro.
+  historia-05  Sin sticker: compartir el carrusel y ajustarlo al recuadro.
+  historia-06  Sin sticker: compartir el reel 3 y ajustarlo al recuadro.
+  historia-09  Sticker ENCUESTA en el recuadro. Pregunta: ¿Respondes los mensajes en menos de 1 hora?
+               Opciones: "Sí" / "No, se me escapan"
+  historia-10  Sticker PREGUNTAS (caja de respuesta) en el recuadro. Texto sugerido: "Escribe TRIPI y tu negocio"
+
+SUBIDA MANUAL
+  historia-09 y historia-10 se suben a mano desde la app (los stickers interactivos no se pueden programar).
