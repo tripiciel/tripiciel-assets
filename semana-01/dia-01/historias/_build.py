@@ -237,7 +237,7 @@ def h10():
     d.text((220, 1095), "24 h", font=font("inter-black", 76), fill=LIM)
     d.rounded_rectangle((140, 1250, 940, 1500), 50, outline=(70, 76, 150), width=4)
     center(d, 1350, "sticker de respuesta aquí", font("inter", 34), (70, 76, 130))
-    center(d, 1545, "Usamos IA y te lo decimos de frente.", font("inter", 34), LAV)
+    center(d, 1545, "Somos dos personas reales.", font("inter", 34), LAV)
     sign(d, "tr")
     return im
 

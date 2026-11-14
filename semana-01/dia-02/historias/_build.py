@@ -142,7 +142,7 @@ def h10():
     center(d,510,"¿Quieres uno así",f("play",86),LAV,0); center(d,610,"para tu negocio?",f("bold",72),CRE)
     center(d,750,"Escribe",f("reg",56),CRE); center(d,810,"TRIPI",f("black",200),LIM)
     hole(d,(140,1110,940,1440),"Sticker de respuesta aquí")
-    center(d,1480,"Te contamos cómo funciona. Sí, usamos IA.",f("reg",36),CRE)
+    center(d,1480,"Te contamos cómo funciona.",f("reg",36),CRE)
     sign(d,"tl"); return im
 def dest():
     im=Image.new("RGB",(W,H),BG); g=Image.new("RGB",(W,H),0); ImageDraw.Draw(g).ellipse((140,560,940,1360),fill=(60,50,170))

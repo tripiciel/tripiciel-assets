@@ -15,5 +15,5 @@
 2. El gancho habla a quien ya publica videos de su negocio y no le rinden. OK.
 3. Caso y cifra: los tres casos son EJEMPLOS ilustrativos (autos, mueblería, celulares), marcados "ejemplo" en pantalla; no son clientes ni resultados reales. "3 metros" es parte del ejemplo. El bucle abierto ("la tercera trae más comentarios") se dice como experiencia, no como dato.
 
-Voz: edge-tts es-MX-JorgeNeural (+22 %, +2 Hz), voz sintética (IA). Tiempos por WordBoundary.
+Voz: edge-tts es-MX-JorgeNeural (+22 %, +2 Hz). Tiempos por WordBoundary.
 Audio: −15,4 LUFS integrados, pico −2,4 dBFS. Motor: _work/render.py (PIL + ffmpeg), reutiliza en solo lectura el motor del reel-4 del día 1.

@@ -19,5 +19,5 @@
 - "La mayoría mira sin sonido": encuesta de Verizon Media y Publicis Media (2019) a consumidores en EE. UU.: el 69 % mira video sin sonido en lugares públicos y el 92 % en el celular lo hace con el sonido apagado. Por eso en pantalla se redacta como "la mayoría", no como cifra.
 - "Ya perdiste a la mayoría" (si empieza con logo): estimación del sector, basada en que la retención cae en los primeros segundos; no se da cifra.
 
-Voz: edge-tts es-MX-JorgeNeural (+22 %, +2 Hz), voz sintética (IA). Tiempos por WordBoundary.
+Voz: edge-tts es-MX-JorgeNeural (+22 %, +2 Hz). Tiempos por WordBoundary.
 Motor: _work/render.py (PIL + ffmpeg), sprites tomados en solo lectura del reel-4 del día 1.

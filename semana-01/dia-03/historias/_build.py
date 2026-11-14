@@ -74,7 +74,7 @@ def h07():
     shot=p if os.path.exists(p) else os.path.join(OUT,"_web-captura.png")
     phone(im,shot,(290,420,790,1450)); d=ImageDraw.Draw(im)
     star(d,890,560,50,LIM); star(d,170,1300,34,LAV)
-    center(d,1510,"Hecha por nosotros (con IA de ayudante).",f("reg",38),LAV); sign(d,"tl"); return im
+    center(d,1510,"Hecha por nosotros dos.",f("reg",38),LAV); sign(d,"tl"); return im
 def h08():
     im=share("CÓMO TRABAJAMOS","Lunes nos escribes,",f("black",78),(270,580,810,1540),glow=(540,1000))
     d=ImageDraw.Draw(im); center(d,395,"jueves tienes tus videos",f("play",76),LIM,0); return im

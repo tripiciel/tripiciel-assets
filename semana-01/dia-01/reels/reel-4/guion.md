@@ -11,4 +11,4 @@
 | 19.3 | Escribe TRIPI por mensaje y en 24 horas te enviamos una propuesta para tu marca, sin costo. | Estrella violeta gira y se abre en el wordmark "tripiciel" + píldora "Escribe TRIPI" / "propuesta en **24 h**, sin costo" |
 
 Filtro: (1) tesis "un equipo de dos en lugar de cuatro" clara en <5 s ✔. (2) El gancho habla a quien necesita redes de su marca ✔. (3) Casos con nombre (Chicho Cars, Nacusi Muebles) ✔; cifra real de cada caso: NO disponible en el brief, no se inventó ninguna (las cifras en pantalla son 2 personas y 24 h).
-Voz: edge-tts es-MX-JorgeNeural (+20 %, atempo 1.1), voz sintética (IA).
+Voz: edge-tts es-MX-JorgeNeural (+20 %, atempo 1.1).
