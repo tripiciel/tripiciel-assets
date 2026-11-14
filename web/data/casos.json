@@ -1,0 +1,22 @@
+[
+  {
+    "cliente": "Chicho Cars",
+    "rubro": "Concesionaria · compra y venta de vehículos",
+    "preview": "media/chicho-cars-preview.mp4",
+    "video": "media/chicho-cars.mp4",
+    "poster": "img/chicho-cars.webp",
+    "hicimos": ["Gancho en los primeros 2 segundos", "Subtítulos dinámicos", "Cortes al ritmo, cada 2 segundos"],
+    "datoCifra": "2 s",
+    "datoTexto": "para captar la atención: el gancho aparece antes de que la persona deslice."
+  },
+  {
+    "cliente": "Nacusi Muebles",
+    "rubro": "Mueblería · placares y muebles a medida",
+    "preview": "media/nacusi-muebles-preview.mp4",
+    "video": "media/nacusi-muebles.mp4",
+    "poster": "img/nacusi-muebles.webp",
+    "hicimos": ["Corrección de color: madera con tonos reales", "Música y voz limpia", "Encuadre vertical con cada detalle a la vista"],
+    "datoCifra": "47 s → 30 s",
+    "datoTexto": "de material crudo a un video listo para publicar."
+  }
+]

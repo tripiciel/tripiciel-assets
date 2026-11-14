@@ -1,0 +1,4 @@
+Poné acá los archivos de Creato Display con estos nombres exactos:
+  CreatoDisplay-Bold.otf
+  CreatoDisplay-ExtraBold.otf
+Mientras no estén, la web usa Manrope automáticamente.

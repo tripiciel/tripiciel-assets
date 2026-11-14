@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tripiciel | Agencia digital: video, diseño, webs, bots y redes</title>
+<meta name="description" content="Tripiciel hace todo lo digital de tu marca en un solo lugar: videos y reels, diseño, sitios web, bots de respuesta automática y manejo de redes. Propuesta en 24 horas.">
+<meta name="theme-color" content="#070A1C">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tripiciel | Tu marca, completa">
+<meta property="og:description" content="Video, diseño, web, bots y redes. Dos personas, un solo equipo, todo lo digital de tu marca.">
+<meta property="og:image" content="img/og-tripiciel.png">
+<meta property="og:locale" content="es_AR">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@1&family=Inter:wght@400;500;600&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="star" viewBox="0 0 100 100"><path fill="currentColor" d="M50 2C55 36 64 45 98 50C64 55 55 64 50 98C45 64 36 55 2 50C36 45 45 36 50 2Z"/></symbol>
+  <symbol id="iso" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46" fill="none" stroke="#5B5BF5" stroke-width="3"/><path fill="#5B5BF5" d="M50 18C53 41 59 47 82 50C59 53 53 59 50 82C47 59 41 53 18 50C41 47 47 41 50 18Z"/></symbol>
+  <symbol id="msg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M21 11.5a8.4 8.4 0 0 1-12.3 7.5L3 21l2-5.5A8.5 8.5 0 1 1 21 11.5z"/></symbol>
+  <symbol id="arrow" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M5 12h14M13 6l6 6-6 6"/></symbol>
+</svg>
+
+<canvas id="sky" aria-hidden="true"></canvas>
+<a class="skip" href="#main">Saltar al contenido</a>
+<div class="loader" aria-hidden="true"><svg style="color:#5B5BF5"><use href="#star"/></svg></div>
+
+<header class="nav" id="nav">
+  <div class="wrap">
+    <a href="#top" class="logo" aria-label="tripiciel, inicio"><svg aria-hidden="true"><use href="#iso"/></svg>tripiciel</a>
+    <nav class="nav-links" id="menu" aria-label="Principal">
+      <a href="#servicios">Servicios</a><a href="#trabajos">Trabajos</a><a href="#como">Cómo trabajamos</a><a href="#packs">Packs</a><a href="#nosotros">Nosotros</a><a href="#preguntas">Preguntas</a>
+    </nav>
+    <a class="btn btn-primary" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Pedir propuesta</a>
+    <button class="burger" id="burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><span></span></button>
+  </div>
+</header>
+
+<main id="main">
+<!-- HERO -->
+<section class="hero" id="top">
+  <div class="wrap">
+    <div>
+      <span class="eyebrow fade-in"><svg><use href="#star"/></svg>Agencia digital</span>
+      <h1 id="hero-title"><span class="w">Tu</span> <span class="w">marca,</span> <span class="w serif v">completa.</span></h1>
+      <p class="lead fade-in" style="animation-delay:.7s">Video, diseño, web, bots y redes. Dos personas, un solo equipo, todo lo digital de tu marca.</p>
+      <div class="btns fade-in" style="animation-delay:.9s">
+        <a class="btn btn-primary" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Pedir propuesta gratis <svg><use href="#arrow"/></svg></a>
+        <a class="btn btn-ghost" href="#trabajos">Ver trabajos</a>
+      </div>
+    </div>
+    <div class="fade-in" style="animation-delay:.5s;position:relative">
+      <div class="phone">
+        <video autoplay muted loop playsinline preload="metadata" poster="img/somos-tripiciel.webp" aria-label="Reel de presentación Somos Tripiciel">
+          <source src="media/somos-tripiciel-preview.mp4" type="video/mp4">
+        </video>
+      </div>
+      <svg class="orbit" style="color:#A99CFF" aria-hidden="true"><use href="#star"/></svg>
+    </div>
+  </div>
+</section>
+
+<!-- CIFRAS -->
+<section class="stats" aria-label="Datos clave">
+  <ul class="wrap">
+    <li class="rv"><b>24 h</b><span>para tu propuesta</span></li>
+    <li class="rv d1"><b>Días</b><span>no semanas</span></li>
+    <li class="rv d2"><b>5 en 1</b><span>5 servicios, 1 equipo</span></li>
+    <li class="rv d3"><b>100 %</b><span>antes y después</span></li>
+  </ul>
+</section>
+
+<!-- PROBLEMA -->
+<section class="problem" id="problema">
+  <div class="wrap">
+    <div class="head center">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>El problema</span>
+      <h2 class="rv d1">Tu marca no necesita <span class="serif">cinco proveedores.</span></h2>
+      <p class="lead rv d2">Coordinar a cinco personas distintas es caro, lento y cada una habla un idioma diferente. Con nosotros, un solo equipo hace todo y con el mismo mensaje.</p>
+    </div>
+    <div class="problem-grid" id="pgrid">
+      <div class="prov">Editor<small>de video</small></div>
+      <div class="prov">Diseñador<small>gráfico</small></div>
+      <div class="prov">Programador<small>web</small></div>
+      <div class="prov">Community<small>manager</small></div>
+      <div class="prov">Bot<small>de respuestas</small></div>
+    </div>
+    <div class="one"><svg aria-hidden="true"><use href="#iso"/></svg><p>Todo eso es tripiciel.</p></div>
+  </div>
+</section>
+
+<!-- SERVICIOS -->
+<section class="light" id="servicios">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Servicios</span>
+      <h2 class="rv d1">Todo lo digital, <span class="serif">en un solo lugar.</span></h2>
+      <p class="lead rv d2">Cinco servicios que funcionan juntos. Puedes contratar uno o dejarnos tu marca completa.</p>
+    </div>
+    <div class="services">
+      <article class="svc rv">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="3" y="5" width="13" height="14" rx="3"/><path d="M16 10l5-3v10l-5-3"/></svg></div>
+        <h3>Videos y reels</h3>
+        <p class="muted">Videos que detienen el dedo y cuentan lo que vendes.</p>
+        <ul><li><svg><use href="#star"/></svg>Edición profesional</li><li><svg><use href="#star"/></svg>Subtítulos y motion graphics</li><li><svg><use href="#star"/></svg>Guiones con gancho</li></ul>
+        <p class="gain"><b>Qué ganas:</b> más gente que mira hasta el final y te escribe.</p>
+      </article>
+      <article class="svc rv d1">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="9" cy="9" r="2"/><path d="M21 15l-5-5L5 21"/></svg></div>
+        <h3>Diseño</h3>
+        <p class="muted">Una imagen coherente en cada publicación.</p>
+        <ul><li><svg><use href="#star"/></svg>Carruseles y publicaciones</li><li><svg><use href="#star"/></svg>Historias y portadas</li><li><svg><use href="#star"/></svg>Identidad visual</li></ul>
+        <p class="gain"><b>Qué ganas:</b> una marca que se reconoce y transmite confianza.</p>
+      </article>
+      <article class="svc rv d2">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="3"/><path d="M2 9h20M6 6.5h.01M9 6.5h.01"/></svg></div>
+        <h3>Sitios web</h3>
+        <p class="muted">Tu vidriera abierta las 24 horas.</p>
+        <ul><li><svg><use href="#star"/></svg>Webs y landing pages rápidas</li><li><svg><use href="#star"/></svg>Pensadas para el celular</li><li><svg><use href="#star"/></svg>Diseñadas para vender</li></ul>
+        <p class="gain"><b>Qué ganas:</b> clientes que te encuentran en Google y te contactan.</p>
+      </article>
+      <article class="svc rv">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="4" y="7" width="16" height="12" rx="4"/><path d="M12 3v4M9 12h.01M15 12h.01M9 16h6"/></svg></div>
+        <h3>Bots de respuesta automática</h3>
+        <p class="muted">Respuestas en segundos, las 24 horas, los 7 días.</p>
+        <ul><li><svg><use href="#star"/></svg>Instagram y WhatsApp</li><li><svg><use href="#star"/></svg>Precios, horarios y preguntas frecuentes</li><li><svg><use href="#star"/></svg>Toma pedidos y turnos</li></ul>
+        <p class="gain"><b>Qué ganas:</b> ninguna consulta se queda sin respuesta.</p>
+      </article>
+      <article class="svc rv d1">
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></div>
+        <h3>Manejo de redes</h3>
+        <p class="muted">Tus redes activas sin que tengas que pensar en ellas.</p>
+        <ul><li><svg><use href="#star"/></svg>Plan de contenido</li><li><svg><use href="#star"/></svg>Publicación diaria</li><li><svg><use href="#star"/></svg>Métricas y reporte semanal</li></ul>
+        <p class="gain"><b>Qué ganas:</b> constancia, y tiempo para atender a tus clientes.</p>
+      </article>
+      <article class="svc rv d2" style="background:var(--noche);color:var(--crema);display:flex;flex-direction:column;justify-content:space-between">
+        <div><span class="eyebrow" style="color:var(--lavanda)"><svg><use href="#star"/></svg>Todo junto</span>
+        <h3 style="font-size:1.9rem;margin-top:14px">Un solo equipo, <span class="serif" style="color:var(--lavanda)">un solo mensaje.</span></h3></div>
+        <a class="btn btn-primary" style="margin-top:24px" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Pedir propuesta</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- TRABAJOS -->
+<section id="trabajos">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Trabajos</span>
+      <h2 class="rv d1">Resultados <span class="serif">a la vista.</span></h2>
+      <p class="lead rv d2">Todo lo mostramos en antes y después. Toca un video para verlo en grande y con sonido.</p>
+    </div>
+    <div class="cases" id="cases" aria-live="polite"></div>
+  </div>
+</section>
+
+<!-- BOT -->
+<section class="bot" id="bot">
+  <div class="wrap">
+    <div>
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Bots de respuesta automática</span>
+      <h2 class="rv d1">Mientras dormías, <span class="serif">vendiste.</span></h2>
+      <p class="lead rv d2">Son las 3 de la mañana y alguien quiere comprar. Tu bot responde al instante con precio, horario y un botón para reservar. Tú lo ves al despertar.</p>
+      <a class="btn btn-ghost rv d3" style="margin-top:28px" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Quiero un bot para mi negocio</a>
+    </div>
+    <div class="chat rv" id="chat" role="img" aria-label="Demostración: un cliente consulta a las 3 a. m. y el bot responde con precio, horario y un botón para reservar">
+      <div class="chat-top"><div class="av"><svg style="color:#fff"><use href="#star"/></svg></div><div><b>Tu negocio</b><small>● En línea</small></div><span class="hora">03:12</span></div>
+      <div class="chat-body" id="chatBody">
+        <div class="msg in">Hola, ¿cuánto sale el placar de 2 puertas? ¿Mañana están abiertos?<span class="t">03:12</span></div>
+        <div class="typing" id="typing"><i></i><i></i><i></i></div>
+        <div class="msg out">¡Hola! 👋 El placar de 2 puertas cuesta $480.000 e incluye el envío.<span class="t">03:12</span></div>
+        <div class="msg out">Mañana atendemos de 9 a 19 h. ¿Quieres reservar una visita al local?<span class="cta">Reservar turno</span><span class="t">03:12</span></div>
+        <div class="msg in">¡Sí! Reservo para las 10.<span class="t">03:13</span></div>
+        <div class="msg out">Listo ✅ Te esperamos mañana a las 10.<span class="t">03:13</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- COMO TRABAJAMOS -->
+<section class="light" id="como">
+  <div class="wrap">
+    <div class="head center">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Cómo trabajamos</span>
+      <h2 class="rv d1">Simple, rápido <span class="serif">y sin vueltas.</span></h2>
+    </div>
+    <ol class="steps" id="steps">
+      <li class="step rv"><span class="n">1</span><div><h3>Escribes <span class="tripi">TRIPI</span></h3><p class="muted">Nos mandas un mensaje por Instagram con la palabra TRIPI.</p></div></li>
+      <li class="step rv d1"><span class="n">2</span><div><h3>Tres preguntas</h3><p class="muted">Tu rubro, qué necesitas y tu presupuesto. Nada más.</p></div></li>
+      <li class="step rv d2"><span class="n">3</span><div><h3>Propuesta en 24 h</h3><p class="muted">Recibes una propuesta clara, a medida de tu marca.</p></div></li>
+      <li class="step rv d3"><span class="n">4</span><div><h3>Arrancamos</h3><p class="muted">Empezamos a trabajar y ves el antes y después.</p></div></li>
+    </ol>
+  </div>
+</section>
+
+<!-- POR QUE -->
+<section id="porque">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Por qué Tripiciel</span>
+      <h2 class="rv d1">Pensamos en ventas, <span class="serif">no en likes.</span></h2>
+    </div>
+    <div class="why">
+      <article class="w-card star rv"><div class="k">$</div><h3>Uno de nosotros es contador público</h3><p>Medimos lo que te deja dinero, no solo lo que suma seguidores. Cada pieza tiene un objetivo de negocio.</p></article>
+      <article class="w-card rv d1"><div class="k">1</div><h3>Todo en un solo lugar</h3><p>Video, diseño, web, bots y redes. Un solo equipo, un solo mensaje.</p></article>
+      <article class="w-card rv d2"><div class="k">⚡</div><h3>Días, no semanas</h3><p>Somos dos y trabajamos directo, sin intermediarios. Cada pieza la hacemos y la revisamos nosotros.</p></article>
+      <article class="w-card rv"><div class="k">−</div><h3>Cuesta menos que un empleado</h3><p>Pagas menos que por una persona para redes, y hacemos más.</p></article>
+      <article class="w-card rv d1"><div class="k">↔</div><h3>Antes y después</h3><p>Los resultados siempre a la vista, sin promesas vacías.</p></article>
+      <article class="w-card rv d2"><div class="k">24 h</div><h3>Propuesta en 24 horas</h3><p>Nos escribes hoy y mañana tienes tu propuesta.</p></article>
+      <article class="w-card rv d3"><div class="k">2</div><h3>Dos personas reales</h3><p>Hablas directo con quien hace tu contenido. Sin intermediarios.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- PACKS -->
+<section class="light" id="packs">
+  <div class="wrap">
+    <div class="head center">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Packs</span>
+      <h2 class="rv d1">Elige cómo <span class="serif">empezar.</span></h2>
+      <p class="lead rv d2">Cada negocio es distinto: te armamos una cotización a medida en 24 horas.</p>
+    </div>
+    <div class="packs">
+      <article class="pack rv">
+        <span class="lbl">Para empezar</span><h3>Arranque</h3>
+        <ul><li><svg><use href="#star"/></svg>8 reels por mes</li><li><svg><use href="#star"/></svg>Historias</li></ul>
+        <a class="btn btn-ghost" style="border-color:rgba(7,10,28,.2)" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Pedir propuesta</a>
+        <p class="note">Cotización a medida en 24 horas</p>
+      </article>
+      <article class="pack featured rv d1">
+        <span class="badge">Recomendado</span>
+        <span class="lbl">El más elegido</span><h3>Marca completa</h3>
+        <ul><li><svg><use href="#star"/></svg>12 reels por mes</li><li><svg><use href="#star"/></svg>8 carruseles</li><li><svg><use href="#star"/></svg>Historias diarias</li><li><svg><use href="#star"/></svg>Manejo de redes</li></ul>
+        <a class="btn btn-primary" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Pedir propuesta</a>
+        <p class="note">Cotización a medida en 24 horas</p>
+      </article>
+      <article class="pack rv d2">
+        <span class="lbl">Todo incluido</span><h3>Full digital</h3>
+        <ul><li><svg><use href="#star"/></svg>Todo lo de Marca completa</li><li><svg><use href="#star"/></svg>Sitio web</li><li><svg><use href="#star"/></svg>Bot de respuesta automática</li></ul>
+        <a class="btn btn-ghost" style="border-color:rgba(7,10,28,.2)" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Pedir propuesta</a>
+        <p class="note">Cotización a medida en 24 horas</p>
+      </article>
+    </div>
+
+    <div class="builder rv" id="armar">
+      <div class="b-info">
+        <span class="lbl">A tu medida</span>
+        <h3>Arma tu <span class="serif">presupuesto.</span></h3>
+        <p class="muted">¿Ningún pack es exacto para ti? Elige solo lo que necesitas y te enviamos una cotización pensada para tu negocio en 24 horas.</p>
+        <ol class="b-steps"><li>Marca los servicios</li><li>Ajusta las cantidades</li><li>Envíanos tu pedido</li></ol>
+      </div>
+      <div class="b-form">
+        <fieldset>
+          <legend class="sr">Servicios</legend>
+          <label class="opt" data-k="reels"><input type="checkbox"><span class="chk"></span><span class="nm">Reels por mes</span><span class="qty"><button type="button" class="q-" aria-label="Menos reels">−</button><output>8</output><button type="button" class="q+" aria-label="Más reels">+</button></span></label>
+          <label class="opt" data-k="carruseles"><input type="checkbox"><span class="chk"></span><span class="nm">Carruseles por mes</span><span class="qty"><button type="button" class="q-" aria-label="Menos carruseles">−</button><output>4</output><button type="button" class="q+" aria-label="Más carruseles">+</button></span></label>
+          <label class="opt"><input type="checkbox" value="Historias diarias"><span class="chk"></span><span class="nm">Historias diarias</span></label>
+          <label class="opt"><input type="checkbox" value="Manejo de redes"><span class="chk"></span><span class="nm">Manejo de redes</span></label>
+          <label class="opt"><input type="checkbox" value="Sitio web"><span class="chk"></span><span class="nm">Sitio web</span></label>
+          <label class="opt"><input type="checkbox" value="Bot de respuesta automática"><span class="chk"></span><span class="nm">Bot de respuesta automática</span></label>
+          <label class="opt"><input type="checkbox" value="Identidad visual (logo y paleta)"><span class="chk"></span><span class="nm">Identidad visual</span></label>
+        </fieldset>
+        <div class="b-sum" aria-live="polite">
+          <p class="b-count"><b id="bCount">0</b> servicios elegidos</p>
+          <p class="b-list" id="bList">Marca al menos un servicio para armar tu pedido.</p>
+          <div class="b-btns">
+            <a class="btn btn-wa is-off" id="bWa" href="#" target="_blank" rel="noopener" aria-disabled="true"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-3.9-4.7-4.1-.1-.2-1.1-1.5-1.1-2.9s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.6.2.3.7 1.2 1.6 1.9 1.1 1 2 1.3 2.3 1.4.3.1.5.1.6-.1l.9-1c.2-.3.4-.2.6-.1l1.9.9c.3.1.4.2.5.3.1.2.1.7-.1 1.3z"/></svg>Enviar por WhatsApp</a>
+            <a class="btn btn-primary is-off" id="bIg" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener" aria-disabled="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".6" fill="currentColor"/></svg>Enviar por Instagram</a>
+          </div>
+          <p class="note" id="bNote">Por WhatsApp el mensaje va listo. Por Instagram lo copiamos para que solo lo pegues.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- NOSOTROS -->
+<section id="nosotros">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Nosotros</span>
+      <h2 class="rv d1">Dos socios, <span class="serif">un solo equipo.</span></h2>
+    </div>
+    <div class="about-text rv d2">
+      <p>Creamos Tripiciel porque vimos a muchos dueños de negocios con productos excelentes y sin tiempo para mostrarlos. Pagaban a varios proveedores, nadie hablaba con nadie y las redes quedaban a medias.</p>
+      <p>Por eso decidimos hacer todo lo digital en un solo lugar, con la velocidad que da la tecnología y el cuidado de dos personas que revisan cada detalle. Tú te ocupas de tus clientes; nosotros, de que tu marca se vea completa.</p>
+    </div>
+    <div class="team">
+      <article class="member rv"><div class="ph" aria-hidden="true">M</div><div><h3>Maciel</h3><p class="rol">Edición de video · Contador público</p><p>Hace que cada video retenga y que cada acción se mida en resultados para tu negocio.</p></div></article>
+      <article class="member rv d1"><div class="ph" aria-hidden="true">T</div><div><h3>Tripicchio</h3><p class="rol">Socio fundador</p><p>Acompaña cada proyecto de punta a punta para que tu marca tenga un solo mensaje en todos lados.</p></div></article>
+    </div>
+  </div>
+</section>
+
+<!-- PREGUNTAS -->
+<section class="light" id="preguntas">
+  <div class="wrap">
+    <div class="head center">
+      <span class="eyebrow rv"><svg><use href="#star"/></svg>Preguntas frecuentes</span>
+      <h2 class="rv d1">Lo que nos <span class="serif">suelen preguntar.</span></h2>
+    </div>
+    <div class="faq rv">
+      <details><summary>¿Cuánto cuesta?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">Depende de lo que necesites. Por eso armamos cada propuesta a medida y te la enviamos en 24 horas, sin costo. Siempre cuesta menos que contratar a un empleado para tus redes.</p></details>
+      <details><summary>¿Cuánto tardan?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">La propuesta llega en 24 horas y las primeras piezas, en pocos días. Trabajamos en días, no en semanas.</p></details>
+      <details><summary>¿Quién hace el trabajo?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">Nosotros dos, Maciel y Tripicchio. Cada pieza la hacemos y la revisamos antes de entregarla.</p></details>
+      <details><summary>¿Trabajan con negocios de cualquier rubro?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">Sí. Trabajamos con concesionarias, mueblerías, comercios, gastronomía, profesionales y creadores de contenido sin tiempo para sus redes.</p></details>
+      <details><summary>¿Qué necesito enviarles?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">Lo que tengas: videos grabados con el celular, fotos de tus productos y tu logo. Si no tienes material, te guiamos para grabarlo de forma simple.</p></details>
+      <details><summary>¿Hay contrato de permanencia?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">No. Trabajamos mes a mes. Nos quedamos porque te damos resultados, no por un contrato.</p></details>
+      <details><summary>¿Cómo empiezo?<span class="pm" aria-hidden="true">+</span></summary><p class="ans">Escríbenos TRIPI por mensaje en Instagram. Te hacemos tres preguntas y en 24 horas recibes tu propuesta.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- CTA FINAL -->
+<section class="final">
+  <svg class="big-star" style="color:#F6F2EA" aria-hidden="true"><use href="#star"/></svg>
+  <div class="wrap">
+    <h2 class="rv">¿Listo para tener tu marca <span class="serif">completa?</span></h2>
+    <a class="btn rv d1" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener">Escribe TRIPI y recibe tu propuesta <svg><use href="#arrow"/></svg></a>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <a href="#top" class="logo" aria-label="tripiciel, volver arriba"><svg aria-hidden="true"><use href="#iso"/></svg>tripiciel</a>
+      <p>Tu marca, completa. Nosotros hacemos todo lo digital, tú atiendes clientes.</p>
+    </div>
+    <div><h4>Contacto</h4><ul><li><a href="https://instagram.com/tripiciel" target="_blank" rel="noopener">Instagram @tripiciel</a></li><li><a href="mailto:tripiciel.soporte@gmail.com">tripiciel.soporte@gmail.com</a></li></ul></div>
+    <div><h4>Secciones</h4><ul><li><a href="#servicios">Servicios</a></li><li><a href="#trabajos">Trabajos</a></li><li><a href="#packs">Packs</a></li><li><a href="#preguntas">Preguntas</a></li></ul></div>
+    <div class="copy"><span>© <span id="year">2026</span> Tripiciel</span><span>Hecho en Argentina</span></div>
+  </div>
+</footer>
+
+<a class="fab" href="https://ig.me/m/tripiciel" target="_blank" rel="noopener" aria-label="Escribirnos por Instagram"><svg><use href="#msg"/></svg></a>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="Video en grande">
+  <button class="close" id="modalClose" aria-label="Cerrar video">✕</button>
+  <video id="modalVideo" controls playsinline></video>
+</div>
+
+<script src="js/main.js" defer></script>
+</body>
+</html>
