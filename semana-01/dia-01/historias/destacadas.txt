@@ -1,0 +1,27 @@
+DESTACADAS — semana 01, día 01
+
+SERVICIOS (portada: destacada-servicios.png)
+  historia-01.png  Hola, somos Tripiciel
+  historia-02.png  Video
+  historia-03.png  Diseño
+  historia-04.png  Web
+  historia-05.png  Bots
+  historia-06.png  Redes
+
+ANTES/DESPUÉS (portada: destacada-antes-despues.png)
+  historia-07.png  Fondo + reel 1 (Chicho Cars) pegado en el hueco central
+  historia-08.png  Fondo + reel 3 (Nacusi Muebles) pegado en el hueco central
+
+SIN DESTACADA
+  historia-09.png  Encuesta
+  historia-10.png  Cierre / CTA
+
+STICKERS
+  historia-07.png  Sin sticker: compartir el reel 1 y ajustarlo al recuadro.
+  historia-08.png  Sin sticker: compartir el reel 3 y ajustarlo al recuadro.
+  historia-09.png  Sticker ENCUESTA en el recuadro central.
+                   Pregunta: ¿Qué te cuesta más de tus redes?
+                   Opciones: "Tener ideas" / "Editar videos"
+  historia-10.png  Sticker PREGUNTAS (caja de respuesta) en el recuadro.
+                   Texto sugerido: "Escribe TRIPI y tu negocio"
+  historia-01 a 06: sin sticker (opcional: sticker de enlace a la web en la 04).
