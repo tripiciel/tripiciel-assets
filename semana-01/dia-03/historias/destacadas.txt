@@ -1,0 +1,28 @@
+DESTACADAS — semana 01, día 03
+
+ANTES/DESPUÉS (portada existente: dia-01/historias/destacada-antes-despues.png)
+  historia-02.png  Fondo + reel 1 (Nacusi Muebles) pegado en el hueco 9:16
+
+WEBS (portada NUEVA: destacada-webs.png)
+  historia-05.png  Fondo + reel 3 (antes/después de una web) pegado en el hueco 9:16
+  historia-06.png  Una web hace por ti: catálogo · precios · pedidos 24/7
+  historia-07.png  Detrás de escena: la web en el celular
+
+CÓMO TRABAJAMOS (portada NUEVA: destacada-como-trabajamos.png)
+  historia-08.png  Fondo + reel 4 pegado en el hueco 9:16
+  historia-09.png  Paso a paso
+
+SIN DESTACADA
+  historia-01.png  Lunes de arranque
+  historia-03.png  Fondo + carrusel "7 ganchos para copiar hoy" en el recuadro 4:5
+  historia-04.png  Caja de preguntas
+  historia-10.png  Cierre / CTA TRIPI
+
+STICKERS / PEGADOS
+  historia-02, 05, 08  Sin sticker: compartir el reel y ajustarlo al hueco.
+  historia-03          Sin sticker: compartir el carrusel y ajustarlo al recuadro.
+  historia-04  Sticker PREGUNTAS en el recuadro: "¿Qué te cuesta más de grabar videos para tu negocio?"
+  historia-10  Sticker PREGUNTAS (caja de respuesta) en el recuadro: "Escribe TRIPI y tu negocio"
+
+SUBIDA MANUAL
+  historia-04 y historia-10 se suben a mano (los stickers interactivos no se pueden programar).
