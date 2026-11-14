@@ -1,11 +1,7 @@
-# Fuentes de las cifras (carrusel día 01)
+# Fuentes de las cifras (verificadas el 13/11/2026)
 
-Son cifras de industria (no de casos propios). Verificar cada una antes de publicar.
-
-- 87 % (slide 2) — Wyzowl, *Video Marketing Statistics* (2024): marketers que dicen que el video aumentó sus ventas.
-- 1,4x (slide 3) — A VERIFICAR: dato de alcance de carruseles vs. imagen única citado en estudios de Socialinsider sobre Instagram; confirmar número y año exactos o reemplazar.
-- 75 % (slide 4) — Stanford Web Credibility Research (B. J. Fogg): usuarios que juzgan la credibilidad de una empresa por el diseño de su web.
-- 90 % (slide 5) — HubSpot Research: clientes que califican una respuesta "inmediata" como importante o muy importante en atención.
-- 76 % (slide 6) — Sprout Social Index: consumidores que compraron algo que vieron en redes sociales. Confirmar edición/año.
-
-Casos Chicho Cars / Nacusi Muebles: no se usaron porque no había cifras reales disponibles; si existen, pueden reemplazar estas cifras.
+- 87 % (slide 2): Wyzowl, State of Video Marketing 2024. Marketers que dicen que el video aumentó directamente sus ventas (87 % en 2023 y 2024).
+- +10 % (slide 3): Socialinsider, estudio de 22 millones de posts de Instagram. Interacción promedio: carrusel 1,92 % frente a imagen 1,74 % (+10 %). Reemplaza el 1,4x anterior, que no tenía respaldo.
+- 75 % (slide 4): atribuido al Stanford Web Credibility Research (B. J. Fogg). Se cita en todas partes, pero no se ubicó la fuente primaria. Usar con cautela o reemplazar.
+- 90 % (slide 5): encuesta de HubSpot Research de 2018, citada en el State of Service 2022. Clientes que califican una respuesta "inmediata" como importante o muy importante.
+- 76 % (slide 6): Sprout Social, Pulse Survey del 2.º trimestre de 2025. Usuarios que dicen que las redes influyeron en sus compras de los últimos seis meses. El texto se corrigió: antes decía "compró algo que vio".
