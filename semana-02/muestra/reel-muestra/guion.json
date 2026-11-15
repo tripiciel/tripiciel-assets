@@ -1,0 +1,15 @@
+{
+  "titulo": "3 errores que hacen que la gente deslice el video de tu negocio",
+  "idioma": "es",
+  "subtitulos": "arriba",
+  "voz": { "proveedor": "edge", "nombre": "es-MX-JorgeNeural", "velocidad_edge": "+27%" },
+  "frases": [
+    { "texto": "Tres errores que hacen que la gente deslice el video de tu negocio.", "clave": "errores", "hook": true },
+    { "texto": "¿Cuántos estás cometiendo tú?", "clave": "tú", "hook": true },
+    { "texto": "Uno: la música más alta que la voz. Si no se entiende lo que dices, la gente se va.", "clave": "música" },
+    { "texto": "Dos: cortes sin sentido. Cada corte tiene que llevarte a algo nuevo, no saltar porque sí.", "clave": "cortes" },
+    { "texto": "Tres: texto pequeño. En un celular, si no se lee de un vistazo, no sirve.", "clave": "pequeño" },
+    { "texto": "Arregla estos tres y tu video se siente profesional. Nosotros dos lo hacemos por ti.", "clave": "profesional" },
+    { "texto": "Escribe TRIPI por mensaje y en 24 horas te enviamos una propuesta para tu marca, sin costo.", "clave": "TRIPI" }
+  ]
+}
