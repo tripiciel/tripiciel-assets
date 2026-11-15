@@ -1,0 +1,9 @@
+Un cliente quiere comprar y tu negocio está cerrado. ¿Qué pasa con ese pedido?
+
+En esta demostración (Rotisería La Esquina es un negocio de ejemplo y el precio es de ejemplo), un bot de respuesta automática toma el pedido, confirma el total, da la hora de retiro y manda el alias para pagar. Tú no tocas el celular.
+
+Somos Tripiciel: Maciel y Tripicchio, dos personas reales que hacen todo lo digital de tu marca.
+
+Escribe TRIPI por mensaje y en 24 horas te enviamos una propuesta para tu marca, sin costo.
+
+#botsparanegocios #pedidosonline #ventasporchat #negociolocal #atencionalcliente

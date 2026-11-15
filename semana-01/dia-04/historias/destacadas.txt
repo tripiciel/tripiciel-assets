@@ -1,0 +1,28 @@
+DESTACADAS — semana 01, día 04
+
+ANTES/DESPUÉS (portada existente: dia-01/historias/destacada-antes-despues.png)
+  historia-02.png  Fotograma del reel 1 (Onix, Chicho Cars) en celular + "Mira el reel en el perfil"
+
+CLIENTES (portada NUEVA: destacada-clientes.png)
+  historia-03.png  Caso Chicho Cars: quién es, qué hicimos, resultado (Aveo 2:57 → 1:31; Onix final 1:34)
+
+BOTS (portada existente: dia-02/historias/destacada-bots.png)
+  historia-06.png  Fotograma del reel 3 (demostración, negocio de ejemplo) + "Tu negocio vende aunque esté cerrado"
+  historia-07.png  Un bot puede: tomar pedidos · dar precios · agendar turnos · las 24 h
+
+CÓMO TRABAJAMOS (portada existente: dia-03/historias/destacada-como-trabajamos.png)
+  historia-08.png  Somos dos: Maciel y Tripicchio
+
+SIN DESTACADA
+  historia-01.png  Martes de ideas
+  historia-04.png  Portada del carrusel "10 ideas" + "Míralo en el perfil"
+  historia-05.png  Tip: responde en video la pregunta que más te hacen
+  historia-09.png  Esta semana tomamos marcas nuevas · Escribe TRIPI
+  historia-10.png  Caja de preguntas
+
+STICKERS
+  Solo historia-10: sticker PREGUNTAS en el recuadro: "¿Qué te cuesta más de las redes de tu negocio?"
+  Todas las demás están completas y se publican solas, sin sticker.
+
+SUBIDA MANUAL
+  historia-10 se sube a mano (el sticker interactivo no se puede programar).
