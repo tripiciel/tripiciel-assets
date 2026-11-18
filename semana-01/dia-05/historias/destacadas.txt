@@ -1,0 +1,22 @@
+DESTACADAS - semana 01, dia 05
+
+ANTES/DESPUES (portada existente: dia-01/historias/destacada-antes-despues.png)
+  historia-05  Nacusi Muebles: misma comoda, 63 s -> 21 s (dato de dia-03/reels/reel-1/guion.md)
+
+COMO TRABAJAMOS (portada existente: dia-03/historias/destacada-como-trabajamos.png)
+  historia-04  Detras de escena: escuchamos, planificamos, grabamos y editamos, revisamos juntos
+  historia-07  Escribe TRIPI y en 24 horas tienes tu propuesta, sin costo (M y T)
+
+SIN DESTACADA
+  historia-01  Miercoles de perfil
+  historia-02  Encuesta en texto: tu perfil dice tu horario? Responde SI o NO por mensaje
+  historia-03  Recordatorio del reel 1 en celular + "Mira el reel en el perfil"
+  historia-06  Tip: fotos de producto con luz de ventana + "Mas consejos en el carrusel del perfil"
+  historia-08  Fondo para caja de preguntas
+
+STICKERS
+  Solo historia-08: sticker PREGUNTAS dentro del recuadro: "Que dato le falta a tu perfil?"
+  Todas las demas estan completas y se publican sin sticker.
+
+SUBIDA MANUAL
+  historia-08 se sube a mano (el sticker interactivo no se puede programar).
