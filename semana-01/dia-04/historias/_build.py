@@ -62,7 +62,7 @@ def h01():
     star(d,540,720,300,VIO); star(d,540,720,130,CRE); star(d,830,480,46,LIM); star(d,240,950,30,LAV)
     center(d,1080,"MARTES",f("heros",190),CRE,0)
     center(d,1300,"de ideas",f("play",140),LAV,0)
-    center(d,1490,"Hoy: casos reales, bots y 10 ideas.",f("reg",42),CRE)
+    center(d,1490,"Hoy: casos reales, bots y 8 ideas.",f("reg",42),CRE)
     return im
 
 def h02():
@@ -112,7 +112,7 @@ def h04():
         left(d,230,760,"ideas para\npublicar\nesta semana",f("black",84),BG,6)
         d.text((230,1080),"en tu negocio",font=f("play",80),fill=VIO)
     d=ImageDraw.Draw(im)
-    center(d,1300,"10 ideas para tu negocio",f("heros",64),CRE)
+    center(d,1300,"8 ideas para tu negocio",f("heros",64),CRE)
     arrow_cta(d,1420,"Míralo en el perfil"); sign(d,"tl"); return im
 
 def h05():

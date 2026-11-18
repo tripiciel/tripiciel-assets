@@ -15,7 +15,7 @@ CÓMO TRABAJAMOS (portada existente: dia-03/historias/destacada-como-trabajamos.
 
 SIN DESTACADA
   historia-01.png  Martes de ideas
-  historia-04.png  Portada del carrusel "10 ideas" + "Míralo en el perfil"
+  historia-04.png  Portada del carrusel "8 ideas" + "Míralo en el perfil"
   historia-05.png  Tip: responde en video la pregunta que más te hacen
   historia-09.png  Esta semana tomamos marcas nuevas · Escribe TRIPI
   historia-10.png  Caja de preguntas
