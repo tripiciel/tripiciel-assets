@@ -1,0 +1,22 @@
+DESTACADAS - semana 01, dia 06
+
+COMO TRABAJAMOS (portada existente: dia-03/historias/destacada-como-trabajamos.png)
+  historia-04  Detras de escena: como planificamos la semana de un cliente (lunes numeros, calendario, grabamos, editamos, revisamos juntos)
+  historia-07  Escribe TRIPI y en 24 horas tienes tu propuesta, sin costo (M y T)
+
+WEBS
+  historia-06  Recordatorio del reel 2: web propia vs. solo Instagram + "Mira el reel en el perfil"
+
+SIN DESTACADA
+  historia-01  Jueves de planificar
+  historia-02  Encuesta en texto: tienes web propia o solo Instagram? Responde WEB o SOLO IG por mensaje
+  historia-03  Recordatorio del reel 1: que publicar si vendes lo mismo todos los dias + "Mira el reel en el perfil"
+  historia-05  Tip: fija tu horario y tu direccion en una historia destacada
+  historia-08  Fondo para caja de preguntas
+
+STICKERS
+  Solo historia-08: sticker PREGUNTAS dentro del recuadro: "Que pregunta te hacen todos los dias?"
+  Todas las demas estan completas y se publican sin sticker.
+
+SUBIDA MANUAL
+  historia-08 se sube a mano (el sticker interactivo no se puede programar).
