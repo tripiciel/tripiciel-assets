@@ -1,0 +1,1 @@
+rgb(251, 248, 241) | rgb(28, 28, 26) | Inter, system-ui, sans-serif
