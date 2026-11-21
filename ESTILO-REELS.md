@@ -40,8 +40,8 @@ referencia que sí funcionan (deepzerr, just_charlyy, diegocastro.sistemas) comp
 - Voz en off masculina neutra (es-MX-JorgeNeural), ritmo ágil, español neutro (tú), una sola toma, sin cortes en
   las palabras y con aire después de la última.
 - Música de fondo tensa o cinemática, baja (unos −22 dB bajo la voz).
-- Efecto de sonido en cada transición: whoosh, clic, tic de cronómetro, golpe suave. Ninguno encima de una palabra
-  clave.
+- Sin efectos de sonido en las transiciones. Solo efectos puntuales en acciones de la escena, nunca encima de una
+  palabra clave.
 - Master: −14 LUFS integrados, pico ≤ −1 dBFS, sin compresión dinámica que bombee.
 
 ## 6. Duración y estructura (45 a 60 s)
@@ -95,7 +95,7 @@ referencia que sí funcionan (deepzerr, just_charlyy, diegocastro.sistemas) comp
   variada: sube en las preguntas y remarca la palabra clave.
 - **Cero silencios:** recortar toda pausa de más de 0,12 s entre frases y respiraciones (jump cuts de audio, sin
   cortar palabras). La frase siguiente arranca apenas termina la anterior.
-- La música no se corta nunca. Un efecto (whoosh, clic, golpe) en cada cambio de plano.
+- La música no se corta nunca. **Sin efectos de sonido en las transiciones** (nada de whoosh ni clic en los cambios de plano). Los efectos solo van en acciones de la escena (un dado que cae, un contador que suma), y con moderación.
 - Cambio de plano o de animación cada 1 a 1,5 s.
 - Duración: 35 a 45 s.
 - Control: `ffmpeg -i voz.wav -af silencedetect=noise=-35dB:d=0.15 -f null -` sobre la pista de voz debe dar 0
