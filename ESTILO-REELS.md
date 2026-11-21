@@ -1,4 +1,4 @@
-# Receta de edición de los reels de Tripiciel (v2, desde el sábado 21/11)
+# Receta de edición de los reels de Tripiciel (v2.1, desde el domingo 22/11)
 
 Reemplaza la receta anterior (estilo «4 errores al editar», tarjetas planas). Motivo: los reels con ese estilo se
 estancaron en menos de 130 vistas y entre el 50 y el 90 % de la gente los salteó en los primeros 3 s. Los reels de
@@ -79,3 +79,32 @@ referencia que sí funcionan (deepzerr, just_charlyy, diegocastro.sistemas) comp
 - Portada: el fotograma más llamativo del reel, sin texto gigante.
 - Entregables por reel: reel-N.mp4 (1080x1920, H.264, AAC), portada.jpg, guion.md, caption.txt (gancho + 2 o 3
   líneas + CTA de comentario + 5 hashtags).
+
+## 11. Mejoras v2.1 (aprendido en el día 8)
+
+- **Ningún plano con el fondo vacío:** siempre hay un objeto 3D en primer plano o en movimiento.
+- **Nada tapa cifras ni textos clave:** revisarlo cuadro por cuadro en los planos con números o carteles.
+- **Luz neutra o cálida sobre papel y objetos claros:** que nunca se vean rosados ni violetas (la luz violeta va
+  solo como borde).
+- **Calidad mínima** = la segunda pasada del día 8: vidrio con transmisión, etiquetas impresas, madera con vetas,
+  sombras suaves, profundidad de campo, motion blur por submuestras, supermuestreo, peso final < 45 MB.
+
+## 12. Voz y ritmo (v2.1)
+
+- Voz enérgica y dinámica, tono de quien cuenta un secreto con urgencia, velocidad 1,15x a 1,2x, entonación
+  variada: sube en las preguntas y remarca la palabra clave.
+- **Cero silencios:** recortar toda pausa de más de 0,12 s entre frases y respiraciones (jump cuts de audio, sin
+  cortar palabras). La frase siguiente arranca apenas termina la anterior.
+- La música no se corta nunca. Un efecto (whoosh, clic, golpe) en cada cambio de plano.
+- Cambio de plano o de animación cada 1 a 1,5 s.
+- Duración: 35 a 45 s.
+- Control: `ffmpeg -i voz.wav -af silencedetect=noise=-35dB:d=0.15 -f null -` sobre la pista de voz debe dar 0
+  silencios (fuera del aire final después de la última palabra).
+
+## 13. Contenido de valor (v2.1)
+
+- Cero publicidad en los reels de valor: no se mencionan Fiadito, Tripiciel, apps, servicios, webs ni bots. Solo el
+  logo chico de Tripiciel en el último segundo.
+- CTA de comentario que no promete nada que haya que enviar: una pregunta que dan ganas de responder («Comenta SÍ si
+  te pasó», «Comenta 1, 2 o 3»).
+- Hashtags de comercio de barrio, sin marca.
