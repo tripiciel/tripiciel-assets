@@ -20,6 +20,7 @@ Reglas fijas:
 - portada.jpg sin texto. caption.txt = caption + 5 hashtags de nicho.
 - En reels, la cámara se mueve todo el tiempo (ESTILO-REELS.md § 4). En reels con metraje real, sin zoom digital del video. Revisar cuadros del mp4 final a tamaño completo. Difuminar patentes o datos personales legibles.
 - No repetir material, cortes ni consejos de días anteriores.
+- Calendario: el carrusel sale solo los martes, jueves y sábados (desde el 23/11). Los demás días, solo reels e historias.
 
 Reglas de trabajo:
 - Cada subagente trabaja solo en su carpeta (temporales en _work) y no toca archivos de otros.
