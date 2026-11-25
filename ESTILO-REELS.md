@@ -108,3 +108,14 @@ referencia que sí funcionan (deepzerr, just_charlyy, diegocastro.sistemas) comp
 - CTA de comentario que no promete nada que haya que enviar: una pregunta que dan ganas de responder («Comenta SÍ si
   te pasó», «Comenta 1, 2 o 3»).
 - Hashtags de comercio de barrio, sin marca.
+
+## 14. Lo que dicen las estadísticas (desde el 26/11)
+
+- El reel con más vistas (1.299, el único con guardados y compartidos) fue «Bajar el precio es la forma más cara de
+  vender más»: afirmación que contradice lo que el comerciante cree + una CUENTA DE PLATA concreta, paso a paso, con
+  números grandes animados (contador en lima #C6F432). Esa es la fórmula base.
+- Nadie comenta (0 comentarios en todos los reels): el CTA pasa a GUARDAR o COMPARTIR («Guarda este video para hacer
+  la cuenta con tus números», «Compártelo con alguien que tenga un negocio»). Reemplaza al CTA de comentario del § 7.
+- Duración 35-45 s (lo que más funcionó retiene al 65-68 %).
+- Portada con el número grande de la cuenta.
+- Render: cada reel usa su propio puerto local en render.py (nunca el 8797 compartido de la plantilla).

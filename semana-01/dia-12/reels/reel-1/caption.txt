@@ -1,0 +1,9 @@
+Vendes todo y a fin de mes no te queda nada. El problema no son las ventas: es cómo calculaste el precio.
+
+Ejemplo: compras a $ 1.000 y vendes a $ 1.300. Parece que te deja $ 300.
+Pero resta la merma ($ 50), la luz ($ 40), el alquiler ($ 70) y la comisión de tarjeta o QR ($ 50): te quedan $ 90. Un 70 % menos.
+Cómo calcularlo bien: suma todos los costos del mes, divídelos por lo que vendes y recién ahí pon tu margen.
+
+Guarda este video y haz la cuenta con tus números.
+
+#comerciodebarrio #negociolocal #emprendedores #costos #preciosjustos
